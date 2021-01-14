@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3102287434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64f800d0696410502fe4bf947a434440
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db6ca716f1828b3f70f7a814acf16430
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f773f4b599ea8a54f85a6e4fb81da900, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/SecondPanel.prefab
+- Assets/Prefabs/MainView.prefab
+Dependencies: []
